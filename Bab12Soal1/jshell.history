@@ -1,0 +1,3 @@
+VAR#>javac src/com/mycompany/bab12soal1/*.java\
+	\
+	java -cp src com.mycompany.bab12soal1.Bab12Soal1Main
