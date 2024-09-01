@@ -10,22 +10,22 @@ package com.mycompany.bab10soal2;
  */
 public class Bab10Soal2Part {
 
-    // Method untuk penjumlahan
+    //penjumlahan
     public int tambah(int a, int b) {
         return a + b;
     }
 
-    // Method untuk pengurangan
+    //pengurangan
     public int pengurangan(int a, int b) {
         return a - b;
     }
 
-    // Method untuk perkalian
+    //perkalian
     public int perkalian(int a, int b) {
         return a * b;
     }
 
-    // Method untuk pembagian
+    //pembagian
     public int pembagian(int a, int b) {
         if (b != 0) {
             return a / b;
@@ -34,7 +34,7 @@ public class Bab10Soal2Part {
         }
     }
 
-    // Method untuk pangkat
+    //pangkat
     public int pangkat(int a, int b) {
         return (int) Math.pow(a, b);
     }
