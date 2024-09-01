@@ -10,7 +10,7 @@ package com.mycompany.bab10soal2;
  */
 public class Bab10Soal2Part {
 
-    //penjumlaha
+    //penjumlahan
     public int tambah(int a, int b) {
         return a + b;
     }
